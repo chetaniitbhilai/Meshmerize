@@ -1,6 +1,5 @@
 # Meshmerize
-This is a project that is aimed at making a line-following bot with maze-solving capabilities.
-The control of the bot is being handled by the PID control system.
+This project aims to develop a line-following robot capable of autonomously navigating through complex mazes. The robot employs sensor-based feedback to follow predefined paths and make decisions at intersections, solving the maze efficiently. 
+The bot is also controlled using the PID control system to smooth maze navigation while following the line.
 
-**Note**
-The project is still in ongoing phase.
+
